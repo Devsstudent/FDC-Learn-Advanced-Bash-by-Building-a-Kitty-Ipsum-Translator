@@ -1,0 +1,3 @@
+diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
